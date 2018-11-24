@@ -25,7 +25,7 @@ public class test {
             displayNumbersOfArray(numbers, average);
         }
         else {
-            System.out.println("No numbers were provided by user");
+            System.out.println("No nublsalsfadmbers were provided by user");
         }
 
     }
@@ -41,7 +41,7 @@ public class test {
             number = input.nextInt();
             if (number <= 0)
             {
-                System.out.println("You have decided to end input by entering a number < or = zero");
+                System.out.println("You ha32424ve decided to end input by entering a number < or = zero");
             }
             else
             {
