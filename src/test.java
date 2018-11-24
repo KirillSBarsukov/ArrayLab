@@ -1,6 +1,6 @@
 /**
  * ArrayLab
- * @author: Kirill Barsukov | 200395896
+ * @author: Elias | 200395896
  * @version: November 20, 2018
  * The program will take numbers from user, put them to the array and calculate average of the numbers.
  */
@@ -73,7 +73,7 @@ public class test {
         return total / counter;
     }
     private static void displayNumbersOfArray(float numbers[], float average){
-        System.out.println("---------------www--List of numbers-------------------");
+        System.out.println("------111111---------www--List of numbers-------------------");
         for(float number: numbers)
         {
             if(number != 0) {
