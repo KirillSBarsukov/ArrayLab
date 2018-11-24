@@ -1,6 +1,6 @@
 /**
  * ArrayLab
- * @author: Kirill Barsukov | 200395896
+ * @author: Elias | 200395896
  * @version: November 20, 2018
  * The program will take numbers from user, put them to the array and calculate average of the numbers.
  */
