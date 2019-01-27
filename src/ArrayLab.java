@@ -2,7 +2,7 @@
  * ArrayLab
  * @author: Kirill Barsukov | 200395896
  * @version: November 20, 2018
- * The program will take numbers from a user, put them to the array and calculate average of the numbers.
+ * The program takes numbers from the user, put them to the array and calculate an average of the numbers.
  */
 
 import java.util.*;
@@ -10,7 +10,7 @@ public class ArrayLab {
     //a constant
     static private final int MAXIMUM_NUMBERS = 10;
 
-    //variables
+    //a variable
     static private Scanner input = new Scanner(System.in);
 
 
